@@ -27,7 +27,7 @@ The repository is organized as follows:
 ```plaintext
 ├── homeworkX/
 │   ├── README.md        # Overview of Homework X
-│   ├── HXQY.py          # Notebook implementation of the question
+│   ├── QY.ipynb          # Notebook implementation of the question
 │   ├── ...              # Needed files for the assignment
 ├── README.md            # Main README file
 └── LICENSE              # License for the repository
